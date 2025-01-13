@@ -1,5 +1,5 @@
-PHP com o princípio da arquitetura MVC, sem utilizar um framework.
-==================================================================
+MVC PHP sem Framework
+=====================
 
 ### Descrição:
 
