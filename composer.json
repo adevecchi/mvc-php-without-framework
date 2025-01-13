@@ -1,0 +1,13 @@
+{
+	"autoload": {
+		"psr-4": {
+			"Application\\" : "application/",
+			"System\\" : "system/"
+		}
+	},
+	"require": {
+		"php": ">=7.2.12",
+		"twig/twig": "^3.3",
+		"symfony/http-foundation": "5.4.48"
+	}
+}
